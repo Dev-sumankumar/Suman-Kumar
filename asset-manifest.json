@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Suman-Kumar/static/css/main.e6c13ad2.css",
+    "main.js": "/Suman-Kumar/static/js/main.518b5cdd.js",
+    "static/js/787.719ec76d.chunk.js": "/Suman-Kumar/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Suman-Kumar/index.html",
+    "main.e6c13ad2.css.map": "/Suman-Kumar/static/css/main.e6c13ad2.css.map",
+    "main.518b5cdd.js.map": "/Suman-Kumar/static/js/main.518b5cdd.js.map",
+    "787.719ec76d.chunk.js.map": "/Suman-Kumar/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.518b5cdd.js"
+  ]
+}
