@@ -2,13 +2,13 @@ import Navbar from './componat/Navbar'
 import Textfrom from './componat/Textfrom';
 import {useState} from 'react';
 import Alert from './componat/Alert';
-import About from './componat/About';
-import {
-  BrowserRouter,
-  Routes,
-  Route,
-} from "react-router-dom";
-import Github from './componat/Github';
+// import About from './componat/About';
+// import {
+//   BrowserRouter,
+//   Routes,
+//   Route,
+// } from "react-router-dom";
+// import Github from './componat/Github';
 
 
 
@@ -52,8 +52,8 @@ else{
 
 
   <Textfrom Mode={Mode}/>
-  <About/>
-  <Github/>
+  {/* <About/> */}
+  {/* <Github/> */}
 
 
   
